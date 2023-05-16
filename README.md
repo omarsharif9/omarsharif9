@@ -15,4 +15,4 @@ I look collaborate on machine learning, science or statistic
 You can send me a messege via social media
 Sometime I have some issues with some topics than Estructural ecuation analysis or PCP, so maybe we can talk about it
 
-<h2><p style="font-size:20px" aling='center'>SKILLS</p></h2>
+<h2 text-align='center'>SKILLS</h2>
