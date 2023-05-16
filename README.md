@@ -1,5 +1,5 @@
 (https://raw.githubusercontent.com/)
-<img src='https://raw.githubusercontent.com/omarsharif9/omarsharif9/master/assets/github.fw.png'></img>
+<img src='https://raw.githubusercontent.com/omarsharif9/omarsharif9/master/github.fw.png'></img>
 ### Hi there my name is Rubén Omar Torres👋
 
 BsC in Physics and BsC in Computer Science
