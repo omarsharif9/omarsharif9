@@ -1,4 +1,4 @@
-(https://raw.githubusercontent.com/parzibyte/omarsharif9/master/assets/github.fw.png)
+(https://raw.githubusercontent.com/omarsharif9/omarsharif9/master/assets/github.fw.png)
 ### Hi there my name is Rubén Omar Torres👋
 
 BsC in Physics and BsC in Computer Science
