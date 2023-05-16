@@ -16,3 +16,4 @@ You can send me a messege via social media
 Sometime I have some issues with some topics than Estructural ecuation analysis or PCP, so maybe we can talk about it
 
 <h2 align='center'>SKILLS</h2>
+<img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'></img>
