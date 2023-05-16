@@ -14,3 +14,5 @@ Actually enhace my machine learning skills
 I look collaborate on machine learning, science or statistic
 You can send me a messege via social media
 Sometime I have some issues with some topics than Estructural ecuation analysis or PCP, so maybe we can talk about it
+
+###Skills
