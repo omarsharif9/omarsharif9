@@ -1,11 +1,10 @@
-### Hi there 👋
+### Hi there my name is Rubén Omar Torres👋
 
-
-- 🔭 I’m currently working on ... Some machine learning algorithms
-- 🌱 I’m currently learning ... Machine Learning algorithms
-- 👯 I’m looking to collaborate on ...Data Science
-- 🤔 I’m looking for help with ...Some code
-- 💬 Ask me about ... Science 
-- 📫 How to reach me: ... Via social media
-- 😄 Pronouns: ... Dr.
-- ⚡ Fun fact: ... I Know a thing of a lot topics
+BsC in Physics and BsC in Computer Science
+PhD Physics Enginnering
+Work in experimental laboratory on nanoparticles synthesis via nobel green methods 
+Using statistics, chemical formulation, thermodynamics, algorith to have best performance, data visualization with origingPro, Seaborn and Matplotlib
+Actually enhace my machine learning skills
+I look collaborate on machine learning, science or statistic
+You can send me a messege via social media
+Sometime I have some issues with some topics than Estructural ecuation analysis or PCP, so maybe we can talk about it
