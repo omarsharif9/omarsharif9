@@ -1,5 +1,6 @@
 
 <img src='https://raw.githubusercontent.com/omarsharif9/omarsharif9/master/github.fw.png'></img>
+<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'><'img>
 ### Hi there my name is Rubén Omar Torres👋
 
 BsC in Physics and BsC in Computer Science
